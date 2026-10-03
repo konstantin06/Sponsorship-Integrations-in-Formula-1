@@ -1,5 +1,4 @@
-![video](rfdetr-example_light.mp4)
-
+<video src="rfdetr_example_light.mp4" controls width="800"></video>
 
 # Formula 1 Sponsor Visibility Analysis
 
