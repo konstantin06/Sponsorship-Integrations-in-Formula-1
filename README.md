@@ -1,6 +1,6 @@
-## Демонстрация работы
+## Demonstration of the work
 
-[▶ Смотреть видео](rfdetr-example_light.mp4)
+[▶ Check video](rfdetr-example_light.mp4)
 
 # Formula 1 Sponsor Visibility Analysis
 
