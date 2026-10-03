@@ -1,3 +1,6 @@
+![video](rfdetr-example_light.mp4)
+
+
 # Formula 1 Sponsor Visibility Analysis
 
 This project is devoted to the automated analysis of sponsor logo visibility in Formula 1 race broadcasts using computer vision methods. The main goal is to detect sponsor logos in video frames, measure their screen presence, and use these indicators for further interpretation of sponsorship effectiveness.
